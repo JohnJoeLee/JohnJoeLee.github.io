@@ -4,13 +4,13 @@ import { getCollection } from "astro:content";
 import PostCard from "../components/PostCard.astro";
 
 const posts = (await getCollection("blog")).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 
 const latestPost = posts.slice(0, 4);
 ---
 
-<h2 class="text-2xl font-bold mb-4">Recent Posts</h2>
+<!-- <h2 class="text-2xl font-bold mb-4">Recent Posts</h2> -->
 <ul class="md:w-2/3">
   {
     latestPost.map((post) => (

@@ -1,7 +1,7 @@
 ---
 title: "Devvortex — HackTheBox [Writeup]"
 description: "The web framework for content-driven websites."
-pubDate: "Jul 13 2022"
+pubDate: "Dec 5 2023"
 ---
 
 Let’s start with a basic nmap scan

@@ -1,7 +1,7 @@
 ---
 title: "Escape — HackTheBox [Writeup]"
 description: "The web framework for content-driven websites."
-pubDate: "Jul 13 2022"
+pubDate: "Aug 6 2023"
 ---
 ![card](../../assets/blog/images/escape/Escape.png)
 
