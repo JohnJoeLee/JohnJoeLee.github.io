@@ -1,6 +1,6 @@
 import type { Socials } from "./types";
 
-export const SITE_URL = "https://vervetheme.vercel.app"; // Replace with your site url
+export const SITE_URL = "https://johnjoelee.github.io"; // Replace with your site url
 export const SITE_TITLE = "JohnJoeLee";
 export const SITE_DESCRIPTION = "";
 export const SITE_LOGO = "/logo.svg";
