@@ -1,6 +1,6 @@
 ---
 title: "Devvortex — HackTheBox [Writeup]"
-description: "The web framework for content-driven websites."
+description: "Hackthebox writeup for Devvortex machine"
 pubDate: "Dec 5 2023"
 ---
 

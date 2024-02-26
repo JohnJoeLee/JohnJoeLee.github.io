@@ -1,6 +1,5 @@
 ---
 title: "Exploiting ssh-keygen SUID binary using custom plugin"
-description: "The web framework for content-driven websites."
 pubDate: "Feb 27 2024"
 ---
 

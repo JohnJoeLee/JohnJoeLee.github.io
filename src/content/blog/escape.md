@@ -1,6 +1,6 @@
 ---
 title: "Escape — HackTheBox [Writeup]"
-description: "The web framework for content-driven websites."
+description: "Hackthebox writeup for Escape machine"
 pubDate: "Aug 6 2023"
 ---
 ![card](../../assets/blog/images/escape/Escape.png)
