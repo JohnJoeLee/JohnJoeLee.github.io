@@ -1,5 +1,6 @@
 ---
 title: "Exploiting ssh-keygen SUID binary using custom plugin"
+description: ""
 pubDate: "Feb 27 2024"
 ---
 
