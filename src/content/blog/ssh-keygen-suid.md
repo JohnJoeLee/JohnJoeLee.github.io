@@ -1,7 +1,7 @@
 ---
 title: "Exploiting ssh-keygen SUID binary using custom plugin"
 description: "The web framework for content-driven websites."
-pubDate: "Dec 5 2023"
+pubDate: "Feb 27 2024"
 ---
 
 A little ago I encountered a system which had SUID bit set on `ssh-keygen`
